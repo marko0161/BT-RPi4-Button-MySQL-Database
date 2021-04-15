@@ -24,7 +24,7 @@ sudo apt install mariadb-server <br>
 --> Falls kein passwort benötigt wird <br>
 --> Bedeutet dass das  sie ohne Passwort zugreifen können <br>
 
-Um den Mysql Prozess zu starten wird der Befehl sudo mysql_secure_installation benötigt <br>
+`Um den Mysql Prozess zu starten wird der Befehl sudo mysql_secure_installation benötigt`: <br>
 -->	Passwort eintippen <br>
 -->	Falls du noch kein Passwort besitzt gebe ein neues Passwort <br> 
 -->	! PASSWORT AUFSCHREIBEN <br>
