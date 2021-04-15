@@ -4,7 +4,7 @@ This repository contains a Raspberry Pi 4 Bluetooth project to send data between
 1. [Allgemeines](#general-info)
 2. [Installationsschritte](#installationen)
 3. [Verweise zu Dateien und Dokumentationen](#verweise)
-
+4. [Wichtige Anmerkungen](#anmerkungen)
 
 ## [Allgemeines](#general-info)
 In diesem README wird angegeben, welche Bibliotheken auf dem Raspberry Pi 4 Model B installiert werden müssen, damit das Projekt nachgestellt werden kann. Zusätzlich findet man hier auch alle nötigen Verweise zu Dateien und Codes, welche ebenfalls im repository hinterlegt sind.
@@ -61,6 +61,8 @@ Eine Möglichkeit apache webserver mit phpmyadmin zu verbinden: <br>
 # [Verweise zu Dateien und Dokumentationen](#verweise)
 In diesem Repository befinden sich 2 Python-Codes, die nach den Installationsschritten aus 2. nun auf den Raspberrys ausgeführt werden können. Zusätzlich kann man eine Dokumentation des Projektes finden, welche als Anleitung für die Nachstellung des Projektes dienen soll.
 
+# [Wichtige Anmerkungen](#anmerkungen)
+`Der Code und die Anleitungen zur Herstellung der Bluetooth-Verbindung könnte noch fehlerhaft sein und wurde nie getestet.`
 
 
 
