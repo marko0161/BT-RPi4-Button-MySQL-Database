@@ -8,16 +8,15 @@ This repository contains a Raspberry Pi 4 Bluetooth project to send data between
 5. [FAQs](#faqs)
 
 ## [Allgemeines](#general-info)
-In diesem README 
-*wird angegeben, welche Bibliotheken auf dem Raspberry Pi 4 Model B installiert werden müssen, damit das Projekt nachgestellt werden kann. Zusätzlich findet man hier auch alle nötigen Verweise zu Dateien und Codes, welche ebenfalls im repository hinterlegt sind.
+In diesem README wird angegeben, welche Bibliotheken auf dem Raspberry Pi 4 Model B installiert werden müssen, damit das Projekt nachgestellt werden kann. Zusätzlich findet man hier auch alle nötigen Verweise zu Dateien und Codes, welche ebenfalls im repository hinterlegt sind.
 
 ## [Installationsschritte](#installationen)
 Im folgenden sieht man einige Befehle, die man im CLI ausführen muss, damit die nötigen Bibliotheken installiert werden:
 
 pip install pybluez
-sudo apt-get install apache2
-sudo apt-get -y install mariadb-server-10.0 php7.3-mysql mariadb-client-10.0
-Sudo apt-get install php5-mysql libapache2-mod-auth-mysql phpMyAdmin
+>sudo apt-get install apache2
+>sudo apt-get -y install mariadb-server-10.0 php7.3-mysql mariadb-client-10.0
+>Sudo apt-get install php5-mysql libapache2-mod-auth-mysql phpMyAdmin
 
 sudo apt install mariadb-server
 --> Danach kann ein Passwort gefragt werden
