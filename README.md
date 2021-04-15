@@ -7,4 +7,4 @@ This repository contains a Raspberry Pi 4 Bluetooth project to send data between
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
-## (#general-info)
+## [General Info](#general-info)
