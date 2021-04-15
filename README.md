@@ -13,10 +13,10 @@ In diesem README wird angegeben, welche Bibliotheken auf dem Raspberry Pi 4 Mode
 ## [Installationsschritte](#installationen)
 Im folgenden sieht man einige Befehle, die man im CLI ausführen muss, damit die nötigen Bibliotheken installiert werden:
 
-pip install pybluez
->sudo apt-get install apache2
->sudo apt-get -y install mariadb-server-10.0 php7.3-mysql mariadb-client-10.0
->Sudo apt-get install php5-mysql libapache2-mod-auth-mysql phpMyAdmin
+pip install pybluez <br>
+--> sudo apt-get install apache2 <br>
+--> sudo apt-get -y install mariadb-server-10.0 php7.3-mysql mariadb-client-10.0 <br>
+--> sudo apt-get install php5-mysql libapache2-mod-auth-mysql phpMyAdmin <br>
 
 sudo apt install mariadb-server
 --> Danach kann ein Passwort gefragt werden
