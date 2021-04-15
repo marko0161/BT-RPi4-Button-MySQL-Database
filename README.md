@@ -8,7 +8,8 @@ This repository contains a Raspberry Pi 4 Bluetooth project to send data between
 5. [FAQs](#faqs)
 
 ## [Allgemeines](#general-info)
-In diesem README wird angegeben, welche Bibliotheken auf dem Raspberry Pi 4 Model B installiert werden müssen, damit das Projekt nachgestellt werden kann. Zusätzlich findet man hier auch alle nötigen Verweise zu Dateien und Codes, welche ebenfalls im repository hinterlegt sind.
+In diesem README 
+*wird angegeben, welche Bibliotheken auf dem Raspberry Pi 4 Model B installiert werden müssen, damit das Projekt nachgestellt werden kann. Zusätzlich findet man hier auch alle nötigen Verweise zu Dateien und Codes, welche ebenfalls im repository hinterlegt sind.
 
 ## [Installationsschritte](#installationen)
 Im folgenden sieht man einige Befehle, die man im CLI ausführen muss, damit die nötigen Bibliotheken installiert werden:
