@@ -2,8 +2,8 @@
 This repository contains a Raspberry Pi 4 Bluetooth project to send data between two Raspberrys and to save the data in a MySQL Database.
 ## Inhalt
 1. [Allgemeines](#general-info)
-2. [Installationsschritte](#installationen)
-3. [Verweise zu Dateien und Dokumentationen](#verweise)
+2. [Installationsschritte](#installationen-1)
+3. [Verweise zu Dateien und Dokumentationen](#verweise-1)
 
 
 ## [Allgemeines](#general-info)
@@ -58,7 +58,7 @@ Eine Möglichkeit apache webserver mit phpmyadmin zu verbinden: <br>
 ![grafik](https://user-images.githubusercontent.com/71693193/114921213-9759ec80-9e2a-11eb-8abc-aafba1d90b1d.png) <br>
 -->	In diesem Fall ist die IP-Adresse 192.168.1.8 <br>
 
-# [Verweise zu Dateien und Dokumentationen](#verweise)
+# [Verweise zu Dateien und Dokumentationen](#verweise-1)
 In diesem Repository befinden sich 2 Python-Codes, die nach den Installationsschritten aus 2. nun auf den Raspberrys ausgeführt werden können. Zusätzlich kann man eine Dokumentation des Projektes finden, welche als Anleitung für die Nachstellung des Projektes dienen soll.
 
 
