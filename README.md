@@ -59,7 +59,7 @@ Eine Möglichkeit apache webserver mit phpmyadmin zu verbinden: <br>
 -->	In diesem Fall ist die IP-Adresse 192.168.1.8 <br>
 
 # [Verweise zu Dateien und Dokumentationen](#verweise)
-In diesem Repository befinden sich 2 Python-Codes, die nach den Installationsschritten aus 2. nun auf den Raspberrys ausgeführt werden können. Zusätzlich kann man eine Dokumentation des Projektes finden, welche als Anleitung für die nachstellung des Projektes dienen soll.
+In diesem Repository befinden sich 2 Python-Codes, die nach den Installationsschritten aus 2. nun auf den Raspberrys ausgeführt werden können. Zusätzlich kann man eine Dokumentation des Projektes finden, welche als Anleitung für die Nachstellung des Projektes dienen soll.
 
 
 
