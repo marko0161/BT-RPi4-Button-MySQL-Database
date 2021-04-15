@@ -36,14 +36,14 @@ sudo mysql -u root -p <br>
 -->	Mit quit kann man die Datenbank dann verlassen <br>
 -->	Oder man kann mit CTRL +D verlassen <br>
 
-Wie installiere ich mysql connector für python <br> 
+So installiere ich mysql connector für python:  <br> 
 Die folgenden Befehle eingeben <br>
 -->	PYTHON 2 <br>
 -->	sudo pip install mysql-connector-python <br>
 -->	PYtHON 3 <br>
 -->	sudo pip3 install mysql-connector-python <br>
 
-Wo habe ich nun Zugriff auf phpmaydmin <br>
+SO habe ich nun Zugriff auf phpmaydmin: <br>
 -->	Sudo apt install phpmaydmin <br>
 ![grafik](https://user-images.githubusercontent.com/71693193/114921021-611c6d00-9e2a-11eb-8484-9c6211a2f2cc.png) <br>
 -->	PHP myadmin konfigurieren <br>
@@ -53,7 +53,7 @@ Wo habe ich nun Zugriff auf phpmaydmin <br>
 -->	Passwort eintippen <br>
 -->	Passwort aufschreiben <br>
 
-Eine Möglichkeit apache webserver mit phpmyadmin zu verbinden <br>
+Eine Möglichkeit apache webserver mit phpmyadmin zu verbinden: <br>
 ![grafik](https://user-images.githubusercontent.com/71693193/114921168-8ad59400-9e2a-11eb-80fe-2acc6b5e6806.png) <br>
 -->	Ip adresse herausfinden <br>
 ![grafik](https://user-images.githubusercontent.com/71693193/114921213-9759ec80-9e2a-11eb-8abc-aafba1d90b1d.png) <br>
