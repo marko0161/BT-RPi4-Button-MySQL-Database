@@ -62,7 +62,7 @@ Eine Möglichkeit apache webserver mit phpmyadmin zu verbinden: <br>
 In diesem Repository befinden sich 2 Python-Codes, die nach den Installationsschritten aus 2. nun auf den Raspberrys ausgeführt werden können. Zusätzlich kann man eine Dokumentation des Projektes finden, welche als Anleitung für die Nachstellung des Projektes dienen soll.
 
 # [Wichtige Anmerkungen](#anmerkungen)
-`Der Code und die Anleitungen zur Herstellung der Bluetooth-Verbindung könnte noch fehlerhaft sein und wurde nie getestet.`
+`Der Code und die Anleitungen zur Herstellung der Bluetooth-Verbindung könnte noch fehlerhaft sein und wurde nie getestet. Die betreffenden Codes wurden jeweils mir der Bezeichnung _V1 benannt worden.`
 
 
 
